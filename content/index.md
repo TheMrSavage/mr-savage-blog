@@ -1,9 +1,8 @@
 ---
 title: Home
 draft: false
-date: 2025-05-16
+date: 2025-05-30
 ---
-# A Blog for Everyone and No One
 ---
 # Recent posts:
-
+- [Quotes](Personal/Reflections/Quotes.md)
