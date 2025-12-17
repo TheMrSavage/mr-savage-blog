@@ -12,7 +12,9 @@ date: 2025-05-29
 - "Assim, Dantès, que havia três meses só aspirava à liberdade, já não achava liberdade suficiente e aspirava à riqueza; a culpa não era do Dantès, mas de Deus, que, limitando o poder do homem, criou-lhe desejos infinitos" - O Conde de Montecristo, Alexandre Dumas.
 - "Avanços tecnológicos não permitirão a manuntenção do status quo, ao menos à respeito da privacidade. O status quo é instável. Se não fizermos nada, novas tecnologias darão ao governo novas habilidades de vigilância automática que Stalin seria incapaz de conceber. A única maneira de manter a privacidade na era da informação é criptografia forte." - Phil Zimmermann, "Porque eu escrevi o PGP"
 - "Cypherpunks write code." - A Cypherpunk's Manifesto, Eric Hughes
-
+- "Quando o amor se torna um deus, vira demônio" - C.S Lewis
+- "Ut ameris, amabilis esto." - Óvido, "Ars Amatoria",  livro II, verso 107
+- "Propter vitam vivendi perdere causas", Juvenal, "Sátira VIII"
 # Random Texts
 
 ## Alexander Grothendieck on Solitude
