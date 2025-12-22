@@ -4,7 +4,7 @@ tags: Personal,Reflections
 draft: false
 date: 2025-05-29
 ---
-# Just some random quotes from several medias (they can be in Portuguese, English or any other language)
+# Personal Philosophy
 - "Na política, meu caro, você sabe tão bem quanto eu, não há homens, há ideias; não há sentimentos, há interesses; na política, não se mata um homem, suprime-se um obstáculo, nada mais." - Noirtier a seu filho, Gérard de Villefort. O Conde de Monte Cristo, Alexandre Dumas.
 - "A única opinião que eu já havia encontrado que contradizia isso provinha da minha primeira doutrinação na CI; lá, haviam dito que, de fato, era um pouco melhor oferecer a venda de segredos ao inimigo que oferecê-los gratuitamente a um repórter. Um repórter contaria ao público, ao passo que seria improvável que um inimigo compartilhasse seu prêmio, inclusive com seus aliados." - Eterna vigilância, Edward Snowden.
 - "De todas essas coisas, a prudência é o princípio e o supremo bem, razão pela qual ela é mais preciosa que a própria filosofia; é dela que originam todas as demais virtudes; é ela que nos ensina que não existe vida feliz sem prudência, beleza e justiça, e que não existe prudência, beleza e justiça sem felicidade." - Carta a Meneceu, Epicuro (*nota: Francamente, daria para colocar o livro inteiro dentro dessa página, e, eventualmente, talvez realmente faça isso lmao*)
@@ -17,7 +17,12 @@ date: 2025-05-29
 - "Propter vitam vivendi perdere causas", Juvenal, "Sátira VIII"
 - "A Amizade não é uma recompensa para nosso discernimento e bom gosto em achar um ao outro. É o instrumento pelo qual Deus revela a cada um as virtudes de todos os outros" - C.S Lewis, "Os Quatro Amores"
 - "A surdez parcial, que é nobre e necessária, encoraja a surdez indiscriminada, que é arrogante e desumana" - C.S Lewis, "Os Quatro Amores"
-# Random Texts
+- "De uns tempos para cá, dei de sentir dentro de mim um acúmulo de todos os tipos de coisas que não podem achar expressão adequada através de uma forma artística objetiva como o romance. Um poeta lírico de vinte anos se sairia bem dessa situação, mas eu não tenho mais vinte anos e, de qualquer forma, nunca fui poeta." - Yukio Mishima, "Sol e Aço"
+- "Sempre senti que sinais de uma individualidade física tais como uma grande barriga (sinal de preguiça espiritual) ou um peito achatado com costelas pro tuberantes (sinal de uma sensibilidade nervosa excessiva) eram muito feios, e não pude conter minha surpresa quando descobri que tinha gente que amava esses sinais. Para mim, isso só podia parecer atos de desavergonhada indecência, como se o portador estivesse expondo os órgãos sexuais do espírito do lado de fora do seu corpo. Representavam um tipo de narcisismo que eu jamais poderia perdoar. " - Yukio Mishima, "Sol e Aço"
+- "A natureza deste aço é estranha. Descobri que enquanto eu aumentava seu peso, pouco a pouco, o efeito era como os braços de uma balança: o volume dos músculos colocados no outro prato da balança cresceu proporcionalmente, como se o aço tivesse a obrigação s;le manter um estrito equilíbrio entre os dois extremos. Passo a passo, as propriedades dos meus músculos começaram cada vez mais a se assemelhar às propriedades do aço. Este lento desenvolvimento, achei, era muito semelhante ao processo da educação, que remodela intelectualmente o cérebro, alimentando-o progressivamente com problemas cada vez mais dificeis. E uma vez que havia sempre a visão de um ideal clássico do corpo para servir como modelo e um objetivo final, o processo se assemelhava muito ao ideal clássico de educação. " - Yukio Mishima, "Sol e Aço"
+- "Músculos forte e esculturais eram indispensáveis para uma morte nobremente romântica." - Yukio Mishima, "Sol e Aço"
+- "O aço me ensinou muitas coisas diferentes relacionadas aos músculos. Proporcionou-me um tipo totalmente novo de conhecimento, um saber que nem livros nem a experiência do mundo poderiam me dar. " - Yukio Mishima, "Sol e Aço"
+# Great Texts
 
 ## Alexander Grothendieck on Solitude
 
