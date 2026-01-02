@@ -23,6 +23,10 @@ date: 2025-05-29
 - "Músculos forte e esculturais eram indispensáveis para uma morte nobremente romântica." - Yukio Mishima, "Sol e Aço"
 - "O aço me ensinou muitas coisas diferentes relacionadas aos músculos. Proporcionou-me um tipo totalmente novo de conhecimento, um saber que nem livros nem a experiência do mundo poderiam me dar. " - Yukio Mishima, "Sol e Aço"
 - "O único lugar fora do Céu onde você pode estar perfeitamente seguro de todos os perigos e perturbações do amor é o Inferno" - C.S Lewis, "Os Quatro Amores"
+- "De todas as nossas obras, a mais real deve ser a mais secreta" - C.S Lewis, "Os Quatro Amores"
+- "Tudo que não é eterno é eternamente ultrapassado" - C.S Lewis, "Os Quatro Amores"
+- "Mesmo aí, eu não podia chegar a acreditar nisso,  a não ser quando tudo isso apareceu nos limites extremos da consciência; percebi nebulosamente, também, que a única prova física da existência da consciência era o sofrimento. Sem dúvida, havia um certo esplendor no sofrer, em íntima afinidade com o esplendor que lateja dentro da força. " - Yukio Mishima, "Sol e Aço"
+- "Meu filho, tenha medo do amor de uma mulher, tenha medo dessa felicidade, desse veneno..." - Ivan Turgeniev, "Primeiro Amor"
 # Great Texts
 
 ## Alexander Grothendieck on Solitude
