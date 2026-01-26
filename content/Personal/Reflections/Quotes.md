@@ -27,6 +27,8 @@ date: 2025-05-29
 - "Tudo que não é eterno é eternamente ultrapassado" - C.S Lewis, "Os Quatro Amores"
 - "Mesmo aí, eu não podia chegar a acreditar nisso,  a não ser quando tudo isso apareceu nos limites extremos da consciência; percebi nebulosamente, também, que a única prova física da existência da consciência era o sofrimento. Sem dúvida, havia um certo esplendor no sofrer, em íntima afinidade com o esplendor que lateja dentro da força. " - Yukio Mishima, "Sol e Aço"
 - "Meu filho, tenha medo do amor de uma mulher, tenha medo dessa felicidade, desse veneno..." - Ivan Turgeniev, "Primeiro Amor"
+- "Deixemos o homem moderno com as suas 'verdades' e preocupemo-nos com apenas uma coisa: permanecer de pé por entre um mundo de ruínas" - Julius Evola, "Revolta Contra O Mundo Moderno"
+- "\[...\] não se assemelha absolutamente a um mortal o homem que vive entre bens imortais" - Carta a Meneceu, Epicuro
 # Great Texts
 
 ## Alexander Grothendieck on Solitude
