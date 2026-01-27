@@ -29,6 +29,7 @@ date: 2025-05-29
 - "Meu filho, tenha medo do amor de uma mulher, tenha medo dessa felicidade, desse veneno..." - Ivan Turgeniev, "Primeiro Amor"
 - "Deixemos o homem moderno com as suas 'verdades' e preocupemo-nos com apenas uma coisa: permanecer de pé por entre um mundo de ruínas" - Julius Evola, "Revolta Contra O Mundo Moderno"
 - "\[...\] não se assemelha absolutamente a um mortal o homem que vive entre bens imortais" - Carta a Meneceu, Epicuro
+- "Se você conseguir se transformar em um autodidata, nunca mais vai ter dificuldade em qualquer assunto" - Pierluigi Piazzi, "Aprendendo Inteligência"
 # Great Texts
 
 ## Alexander Grothendieck on Solitude
