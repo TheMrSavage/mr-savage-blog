@@ -18,9 +18,35 @@ Como ficou claro pelos meus dois textos anteriores, [Inicio Do Hardening - Root 
 
 #### Licenciamento de Software
 
-## Breve resumo do texto
+# Breve resumo do texto
 >[!info] [Para aqueles que desejarem ler o texto na integra](https://www.gnu.org/philosophy/right-to-read.pt-br.html)
 
+O texto descreve a trajetória de Dan Halbert, que se encontra inicialmente em um dilema:
+> Emprestar ou não seu computador para Lissa Lenz, o qual ele era apaixonado
+
+Por que isso é um dilema? Simples, imagine se *todos os produtores* (nesse caso os produtos são os livros) fossem iguais a Nintendo. Ou seja, se você pudesse ser preso por violar a propriedade intelectual de *qualquer* produto. No caso, até mesmo o uso de um *debugger* era extremamente restritivo, afinal, você poderia usar ele para burlar proteções de licenciamento de software.
+
+No final, cedendo a sua paixão, Dan, além de emprestar seu computador também disse sua senha. Assim, o orgão responsável por verificar *quem* estava acessando determinado livro (a saber, *Software Protection Authority* ou *SPA*) não ficaria automaticamente sabendo que era Lissa quem os estava lendo (sem falar na questão de negabilidade plausível). Assim ela decide se casar com ele, e ambos se tornaram especie de ativistas contra o licenciamento agressivo, defendendo, no "Levante de Tycho" (2062), o direito universal à leitura. 
+
+## Uma crítica
+Francamente? Eu não acho o texto bom. Ele consegue comunicar bem a mensagem, de que se não houver um movimento de resistência, as medidas draconianas relacionadas a licenciamento vão se intensificar até desaguar em um cenário distópico. Mas de uma forma nenhum pouco sútil, com personagens pouco desenvolvidos e sem um *plot* realmente interessante. Veja, Stallman é um ideólogo e não um escritor, contudo, como este é um texto literário acredito que seja valida a crítica.
+
+### Alguns exemplos melhores
+Abaixo enumero alguns exemplos de livros e contos que julgo que fizeram um trabalho, em termos literários, melhor em comunicar a sua mensagem.
+
+#### Fahrenheit 451
+>[!warning]
+>Spoilers de Farenheit 451 abaixo
+
+Um livro que eu julgo que capta melhor a mensagem (porém sobre *outro* ângulo) é **Fahrenheit 451**. Veja, em Fahrenheit há um bom desenvolvimento de personagem, com Montag, que antes era um agente do Estado, se tornando uma especie de revolucionário, e um *excelente* plot logo no começo. No começo do livro, logo na primeira parte, ocorre um dialog entre Montag e seu chefe, capitão Beatty, que nos revela o *porquê* de livros serem tão perigosos.
+
+Eu recomendo fortemente a [leitura](https://mediadwellers.wordpress.com/wp-content/uploads/2016/02/beatty-speech-to-montag-excerpt.pdf) desse dialogo na integra, contudo, eu *preciso* deixar o seguinte trecho registrado, porque ele esbarra no erro fundamental do texto de Stallman: Não deixar claro *quem* e *porque* a sua distopia aconteceu.
+
+>\[...\] Ai está, Montag. A coisa não veio do governo. Não houve nenhum decreto, nenhuma declaração, nenhuma censura como ponto de partida. Não! A tecnologia, a exploração das massas e a pressão das minorias realizaram a façanha, graças a Deus. Hoje, graças a elas, você pode ficar o tempo todo feliz, você pode ler os quadrinhos, as boas e velhas confissões ou os periódicos profissionais.
+
+#### Admirável Mundo Novo
+
+#### I Have No Mouth and I Must Scream
 
 # Algumas reflexões
 Agora, está é a seção que esclarece o porquê desse texto já ter nascido póstumo.
@@ -46,7 +72,7 @@ Está seção, definitivamente, **não é uma conclusão**. Ela é um esboço **
 3. É mandatório o desenvolvimento pessoal em todas as áreas possíveis (e com isso me refiro ao domínio técnico puro, psicológico, estético, dentre **muitos** outros).
 	1. Não espera *"cavalgar o tigre"* sendo fraco. 
 
-Acredito que esses três pontos, por mais abrangentes que sejam, sintetizam bem aquilo que **deve ser** feito. Conforme os (muitos) anos que se seguem, trarei de justificar e explicitar melhor cada um desses pontos, como justificar o primeiro através de um *mix* entre a *praxeologia* de Mises e a hipótese da economia (mercado financeiro, mais especificamente) ser uma *Random Walk*, ou, sobre o terceiro ponto, falar sobre aspectos como *efeito Halo* (para justificar a necessidade da estética e boa aparência) ou o *experimento da prisão de Oxford* associado a tese da *banalidade do mal*.
+Acredito que esses três pontos, por mais abrangentes que sejam, sintetizam bem aquilo que **deve ser** feito. Conforme os (muitos) anos que se seguem, trarei de justificar e explicitar melhor cada um desses pontos, como justificar o primeiro através de um *mix* entre a *praxeologia* de Mises e a hipótese da economia (mercado financeiro, mais especificamente) ser uma *Random Walk*, ou, sobre o terceiro ponto, falar sobre aspectos como *efeito Halo* (para justificar a necessidade da estética e boa aparência) ou o *experimento da prisão de Stanford* associado a tese da *banalidade do mal*.
 
 Há **muito** trabalho a ser feito.
 
