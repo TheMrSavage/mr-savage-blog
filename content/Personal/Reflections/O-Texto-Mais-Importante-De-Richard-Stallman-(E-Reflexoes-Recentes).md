@@ -3,8 +3,8 @@ title: O Texto Mais Importante De Richard Stallman (E Reflexões Recentes)
 tags:
   - Personal
   - Reflections
-draft: true
-date: 2026-01-09
+draft: false
+date: 2026-02-16
 ---
 # Contexto inicial
 >[!warning]
@@ -89,7 +89,7 @@ Dedico a seguinte seção para enumerar alguns eventos relativamente recentes pa
 Nos últimos anos diversos países ocidentais tomaram medidas de vigilância sobre o pretexto de proteção para menores na internet. Alguns exemplos notórios:
 1. [Australia](https://www.legislation.gov.au/C2021A00076/latest/text)
 2. [Reino Unido](https://www.legislation.gov.uk/ukpga/2023/50/contents)
-3. [[#*"Lei Felca"*]] (Brasil).
+3. "Lei Felca" 
 
 Cada país tem uma legislação específica quanto a isso, mas, de modo geral, *todos* implementam um sistema de verificação compulsória e evasiva em qualquer serviço que um menor poderia teoricamente acessar. Isso, evidentemente, abre margem para *censura* de determinadas mídia, risco de vazamento de informações e o seu uso posterior para [chantagem](https://www.bbc.com/portuguese/internacional-38607959) ou fraudes, e o fortalecimento das *Big Techs* e empresas de biometria. 
 
